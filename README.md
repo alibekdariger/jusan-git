@@ -1,6 +1,9 @@
 # stepik-id-printer(h1)
 This repo contains script that gives my ID number on stepik.org
+
 ![](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+
+
 ## Возможности(h2)
 Данный проект имеет следующий функционал.
 * Выводит в stdout уникальный идентификатор.
