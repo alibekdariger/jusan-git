@@ -1,5 +1,5 @@
 # stepik-id-printer(h1)
-This repo contains script that gives my ID number on stepik.org
+username.sh gives my full name
 ## Возможности(h2)
 Данный проект имеет следующий функционал.
 * Выводит в stdout уникальный идентификатор.
